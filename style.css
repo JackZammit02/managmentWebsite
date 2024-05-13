@@ -7,6 +7,7 @@
     font-family: "Ubuntu", sans-serif;
 }
 
+
 a{
     text-decoration:none
 }
@@ -17,10 +18,52 @@ nav{
     top: 0;
     width: 100%;
     padding: 20px;
+    z-index: 999;
 }
 
 nav.sticky{
     background: #ffd67b;
+}
+
+section{
+    height: 75vh;
+    display:flex;
+}
+
+#homepage{
+    padding-top: 3rem;
+    height: 70vh;
+}
+
+#religiousdiversity{
+    height: 210vh;
+    padding-top: 10rem;
+    overflow: hidden;
+}
+
+#lgbtqdiversity{
+    height: 175vh;
+    padding-top: 10rem;
+    overflow: hidden;
+}
+
+#mentalhealthdiversity{
+    height: 305vh;
+    padding-top: 10rem;
+    overflow: hidden;
+}
+
+#racialdiversity{
+    height: 305vh;
+    padding-top: 10rem;
+    overflow: hidden;
+
+}
+
+#genderdiversity{
+    height: 270vh;
+    padding-top: 10rem;
+    overflow: hidden;
 }
 
 
@@ -123,104 +166,29 @@ nav .nav_links a:hover{
     padding-left: 30px;
 }
 
-.title h3{
-    font-size: 6rem;
-    color: #584a9d;
-    margin-bottom: 10px;
-    padding-top: 1150px;
+.textRight p2{
+    padding-left: 370px;
 }
 
-.textRight2{
-    float: left;
-    width: 65%;
-    padding: 10px;
-    padding-top: 1100px;
-    height: 300px;
-}
-
-.textRight2 ul{
-    padding-left: 30px;
-}
-
-.textRight2 ol{
-    padding-left: 30px;
-}
-
-.title h4{
-    font-size: 6rem;
-    color: #584a9d;
-    margin-bottom: 10px;
-    padding-top: 1000px;
-}
-
-.textRight3{
-    float: left;
-    width: 65%;
-    padding: 10px;
-    padding-top: 1250px;
-    height: 300px;
-}
-
-.textRight3 ul{
-    padding-left: 30px;
-}
-
-.textRight3 ol{
-    padding-left: 30px;
-}
-
-.textRight3 img{
+img.tall{
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+    max-height: 400px;
+    margin: 0 auto
 }
 
-.title h5{
-    font-size: 6rem;
-    color: #584a9d;
-    margin-bottom: 10px;
-    padding-top: 1550px;
+img.wide{
+    display: block;
+    max-width: 80%;
+    margin: 0 auto
 }
 
-.textRight4{
-    float: left;
-    width: 65%;
-    padding: 10px;
-    padding-top: 1900px;
-    height: 300px;
+img.wideSmall{
+    display: block;
+    max-width: 30%;
+    margin: 0 auto
 }
 
-.textRight4 ul{
-    padding-left: 30px;
-}
 
-.textRight4 ol{
-    padding-left: 30px;
-}
-
-.title h6{
-    font-size: 6rem;
-    color: #584a9d;
-    margin-bottom: 10px;
-    padding-top: 2150px;
-}
-
-.textRight5{
-    float: left;
-    width: 65%;
-    padding: 10px;
-    padding-top: 2400px;
-    height: 300px;
-}
-
-.textRight5 ul{
-    padding-left: 30px;
-}
-
-.textRight5 ol{
-    padding-left: 30px;
-}
 
 .scroll-down {
     position: absolute;
