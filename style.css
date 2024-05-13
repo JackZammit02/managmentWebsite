@@ -138,6 +138,27 @@ nav .nav_links a:hover{
     margin-bottom: 10px;
 }
 
+.content2{
+    max-width:1440px;
+    padding-left: 2rem;
+    padding-top: 3rem;
+    line-height: 1.3rem;
+}
+
+.content2 p{
+    max-width:1440px;
+    padding-bottom: 5rem;
+    padding-top: 1rem;
+    text-align:justify;
+    line-height: 1.3rem;
+}
+
+.content2 h2{
+    font-size: 3rem;
+    color: #584a9d;
+    margin-bottom: 10px;
+}
+
 
 .title{
     float: left;
@@ -177,6 +198,11 @@ nav .nav_links a:hover{
 
 .textRight p3{
     padding-left: 350px;
+    color: #7e7f7f;
+}
+
+.textRight p4{
+    padding-left: 400px;
     color: #7e7f7f;
 }
 
