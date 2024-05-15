@@ -40,6 +40,7 @@ section{
 }
 
 #religiousdiversity{
+    max-width:1440px;
     min-height: 240vh;
     height: auto;
     padding-top: 10rem;
@@ -47,6 +48,7 @@ section{
 }
 
 #lgbtqdiversity{
+    max-width:1440px;
     min-height: 185vh;
     height: auto;
     padding-top: 10rem;
@@ -54,6 +56,7 @@ section{
 }
 
 #mentalhealthdiversity{
+    max-width:1440px;
     min-height: 315vh;
     height: auto;
     padding-top: 10rem;
@@ -61,6 +64,7 @@ section{
 }
 
 #racialdiversity{
+    max-width:1440px;
     min-height: 330vh;
     height: auto;
     padding-top: 10rem;
@@ -69,11 +73,13 @@ section{
 }
 
 #genderdiversity{
+    max-width:1440px;
     min-height: 285vh;
     height:auto;
     padding-top: 10rem;
     overflow: hidden;
 }
+
 
 
 nav .nav_content{
