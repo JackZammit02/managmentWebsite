@@ -30,42 +30,47 @@ nav.sticky{
 }
 
 section{
-    height: 75vh;
     display:flex;
 }
 
 #homepage{
     padding-top: 3rem;
     height: 10%;
+    overflow: hidden;
 }
 
 #religiousdiversity{
-    height: 240vh;
+    min-height: 240vh;
+    height: auto;
     padding-top: 10rem;
     overflow: hidden;
 }
 
 #lgbtqdiversity{
-    height: 175vh;
+    min-height: 185vh;
+    height: auto;
     padding-top: 10rem;
     overflow: hidden;
 }
 
 #mentalhealthdiversity{
-    height: 305vh;
+    min-height: 315vh;
+    height: auto;
     padding-top: 10rem;
     overflow: hidden;
 }
 
 #racialdiversity{
-    height: 320vh;
+    min-height: 330vh;
+    height: auto;
     padding-top: 10rem;
     overflow: hidden;
 
 }
 
 #genderdiversity{
-    height: 270vh;
+    min-height: 285vh;
+    height:auto;
     padding-top: 10rem;
     overflow: hidden;
 }
@@ -133,7 +138,7 @@ nav .nav_links a:hover{
 }
 
 .content h2{
-    font-size: 3rem;
+    font-size: 3vw;
     color: #584a9d;
     margin-bottom: 10px;
 }
@@ -177,6 +182,7 @@ nav .nav_links a:hover{
 }
 
 .textRight{
+    font-size: 1.1vw;
     float: left;
     width: 65%;
     padding: 10px;
