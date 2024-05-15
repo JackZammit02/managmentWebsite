@@ -36,35 +36,35 @@ section{
 #homepage{
     padding-top: 3rem;
     height: 10%;
-    overflow: hidden;
+    overflow: auto;
 }
 
 #religiousdiversity{
     min-height: 240vh;
     height: auto;
     padding-top: 10rem;
-    overflow: hidden;
+    overflow: auto;
 }
 
 #lgbtqdiversity{
     min-height: 185vh;
     height: auto;
     padding-top: 10rem;
-    overflow: hidden;
+    overflow: auto;
 }
 
 #mentalhealthdiversity{
     min-height: 315vh;
     height: auto;
     padding-top: 10rem;
-    overflow: hidden;
+    overflow: auto;
 }
 
 #racialdiversity{
     min-height: 330vh;
     height: auto;
     padding-top: 10rem;
-    overflow: hidden;
+    overflow: auto;
 
 }
 
@@ -72,7 +72,7 @@ section{
     min-height: 285vh;
     height:auto;
     padding-top: 10rem;
-    overflow: hidden;
+    overflow: auto;
 }
 
 
