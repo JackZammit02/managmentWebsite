@@ -36,7 +36,7 @@ section{
 
 #homepage{
     padding-top: 3rem;
-    height: 70vh;
+    height: 10%;
 }
 
 #religiousdiversity{
@@ -81,7 +81,7 @@ nav .nav_content{
 }
 
 nav .nav_content .logo a{
-    font-size: 25px;
+    font-size: 2.1vw;
     font-weight: 500;
     color: #584a9d;
 }
@@ -97,7 +97,7 @@ nav .nav_links li{
 }
 
 nav .nav_links a{
-    font-size: 15px;
+    font-size: 1vw;
     font-weight: 500;
     color: #584a9d;
     padding: 10px 15px;
@@ -154,7 +154,7 @@ nav .nav_links a:hover{
 }
 
 .content2 h2{
-    font-size: 3rem;
+    font-size: 3vw;
     color: #584a9d;
     margin-bottom: 10px;
 }
@@ -171,7 +171,7 @@ nav .nav_links a:hover{
 }
 
 .title h2{
-    font-size: 6rem;
+    font-size: 6vw;
     color: #584a9d;
     margin-bottom: 10px;
 }
